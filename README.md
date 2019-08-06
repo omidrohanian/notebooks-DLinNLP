@@ -1,2 +1,2 @@
 ## DLinNLP Materials
-Resources and Notebooks related to DLinNLP summer school
+Preparatory notebooks related to DLinNLP summer school
